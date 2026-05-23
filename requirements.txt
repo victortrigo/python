@@ -1,0 +1,4 @@
+mkdocs-material
+mkdocs-jupyter
+mkdocs-static-i18n
+mkdocs-enumerate-headings-plugin

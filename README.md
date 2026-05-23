@@ -3,6 +3,13 @@
 
 - Profesor: **Víctor Trigo, Ing.**
 
+Bienvenido al repositorio del curso. 
+Toda la documentación, clases y material interactivo está estructurado en formato web.
+
+## ¿Cómo ver el curso localmente?
+1. Instala las dependencias del entorno: `pip install -r requirements.txt`
+2. Levanta el servidor web de documentación: `mkdocs serve`
+3. Abre tu navegador en `http://127.0.0.1:8000/`
 
 ## Contenido del Curso
 

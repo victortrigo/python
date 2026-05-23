@@ -1,0 +1,32 @@
+site_name: Python for Statistics and Data Science
+site_author: Victor Trigo
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: light blue
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: light blue
+
+plugins:
+  - search
+  - mkdocs-jupyter
+  - enumerate-headings:
+      include_markdown: true
+      heading_depth: 2
+nav:
+  - Home: index.md
+  - Python: python/index.md
+  - Mathematics: mathematics/index.md
+  - Linear Algebra: linear_algebra/index.md
+  - Calculus: calculus/index.md
+  - Statistic: statistic/index.md
+  - Probabilities: probabilities/index.md
+  - Inference: inference/index.md
+  - Machine Learning: machine_learning/index.md
+  - Deep Learning: deep_learning/index.md
