@@ -1,4 +1,4 @@
-site_name: Python for Statistics and Data Science
+site_name: Inteligencia Artificial con Python
 site_author: Victor Trigo
 
 theme:
@@ -20,13 +20,16 @@ plugins:
       include_markdown: true
       heading_depth: 2
 nav:
-  - Home: index.md
-  - Python: python/index.md
-  - Mathematics: mathematics/index.md
-  - Linear Algebra: linear_algebra/index.md
-  - Calculus: calculus/index.md
-  - Statistic: statistic/index.md
-  - Probabilities: probabilities/index.md
-  - Inference: inference/index.md
+  - Introducción: index.md
+  - Entorno y Herramientas: environment/index.md
+  - Programación: python/index.md
+  - Datasets: datasets/index.md
+  - Matemática: mathematics/index.md
+  - Algebra Lineal: linear_algebra/index.md
+  - Cálculo: calculus/index.md
+  - Estadística: statistic/index.md
+  - Probabilidades: probabilities/index.md
+  - Inferencia: inference/index.md
   - Machine Learning: machine_learning/index.md
   - Deep Learning: deep_learning/index.md
+  - Ingeniería: engineering/index.md

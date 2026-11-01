@@ -1,4 +1,4 @@
-# Curso de Python para Estadística y Ciencia de Datos
+# Curso de Inteligencia Artificial con Python
 
 
 - Profesor: **Víctor Trigo, Ing.**
@@ -22,7 +22,7 @@ Toda la documentación, clases y material interactivo está estructurado en form
 - Estructuras de control: (if, elif, else, for, while)
 - Funciones y Algoritmos: Uso de lo aprendido para crear funciones y algoritmos
   
-### 2. Análisis Exploratorio de Datos Estadística
+### 2. Análisis Exploratorio de Datos 
 
 
 ### 3. Álgebra Lineal
