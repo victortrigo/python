@@ -4,7 +4,9 @@
 - Profesor: **Víctor Trigo, Ing.**
 
 Bienvenido al repositorio del curso. 
-Toda la documentación, clases y material interactivo está estructurado en formato web.
+Toda la documentación, clases y material interactivo está estructurado en formato web. 
+
+[Libro Web](https://victortrigo.github.io/python/)
 
 ## ¿Cómo ver el curso localmente?
 1. Instala las dependencias del entorno: `pip install -r requirements.txt`
